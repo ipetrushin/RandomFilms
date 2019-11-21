@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="nextButton">Следующий</string>
+    <string name="resetButton">Сброс</string>
+    <string-array name="movies">
+        <item>Начало</item>
+        <item>Изгой</item>
+        <item>Ну погоди!</item>
+    </string-array>
+</resources>
